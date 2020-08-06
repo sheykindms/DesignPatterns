@@ -19,7 +19,7 @@ public class Main {
         rockstarGames.addObserver(peter);
         rockstarGames.addObserver(helen);
 
-        //you know i mean GTA6
+        //You know i mean GTA6
         game = scanner.nextLine();
         System.out.println("It's happened! RockstarGames releases new game - " + game + "!");
 
